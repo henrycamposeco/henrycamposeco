@@ -1,5 +1,5 @@
 # Hi, I’m Henry Reyes 👋
-### Senior Full Stack Dev| Systems Engineer | Aspiring ML Engineer (Est. 2006)
+### Senior Full Stack Dev | Systems Engineer | Aspiring ML Engineer (Est. 2006)
 
 I have spent the last **two decades** evolving alongside the web. Since 2006, I have transitioned from enterprise Java systems to modern React/Node.js architectures. I am currently pivoting my deep systems experience toward the **Machine Learning Engineering** track, bridging the gap between robust software engineering and intelligent data systems.
 
